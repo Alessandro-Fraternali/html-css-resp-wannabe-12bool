@@ -5,3 +5,10 @@ h1 {
 img {
   height: 90px;
 }
+
+.sfondotondo {
+  margin: auto;
+  width: 100px;
+  background-color: blue;
+  border-radius: 100%;
+}
