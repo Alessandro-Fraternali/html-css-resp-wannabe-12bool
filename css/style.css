@@ -12,3 +12,11 @@ img {
   background-color: blue;
   border-radius: 100%;
 }
+
+.nested{
+  height: 96px;
+  background-color: red;
+}
+.nest{
+  padding: 1px;
+}
