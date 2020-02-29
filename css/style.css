@@ -1,5 +1,14 @@
 h1 {
-  padding-top: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+hr {
+  margin-bottom: 50px;
+}
+
+p {
+  margin-bottom: 40px;
 }
 
 img {
@@ -16,12 +25,4 @@ img {
   height: 170px;
   background-color: blue;
   border-radius: 100%;
-}
-
-.nested{
-  height: 96px;
-  background-color: red;
-}
-.nest{
-  padding: 1px;
 }
